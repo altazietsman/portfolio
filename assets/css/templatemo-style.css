@@ -153,7 +153,7 @@ html {
 .menu .author-content span {
     font-size: 13px;
     font-style: italic;
-    color: #fff;
+    color: #36454f;
 }
 
 .menu .social-network {
@@ -326,7 +326,7 @@ html {
     display: inline-block;
     padding: 12px 20px;
     background-color: #fff;
-    color: #d9f1ff;
+    color: #296d98;
     font-size: 13px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -343,7 +343,7 @@ button {
     display: inline-block;
     padding: 10px 20px;
     background-color: #fff;
-    color: #d9f1ff;
+    color: #296d98;
     font-size: 12px;
     font-weight: 800;
     letter-spacing: 0.5px;
@@ -497,7 +497,7 @@ section.my-work .section-heading {
 }
 
 .isotope-toolbar input[type="radio"]:checked + span {
-    color: #d9f1ff;
+    color: #296d98;
     border-bottom: 2px solid #296d98;
 }
 
