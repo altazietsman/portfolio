@@ -117,7 +117,7 @@ html {
     display: inline-block;
     font-size: 16px;
     font-weight: 700;
-    color: #36454f;
+    color: #296d98;
     width: 100%;
     transition: all 0.5s;
     border-top: 2px solid #fff;
@@ -126,7 +126,7 @@ html {
 .main-nav li:hover a,
 .main-nav li.active a {
     background: #fff;
-    color: #d9f1ff;
+    color: #296d98;
 }
 
 /* Sidebar Menu */
@@ -255,7 +255,7 @@ html {
     position: fixed;
     top: 0;
     left: 0;
-    color: #bfe6ff;
+    color: #296d98;
     background-color: #fff;
     width: 60px;
     height: 60px;
@@ -302,7 +302,7 @@ html {
 .section-heading h2 {
     font-size: 32px;
     font-weight: 700;
-    color: #fff;
+    color: #36454f;
 }
 
 .section-heading .line-dec {
