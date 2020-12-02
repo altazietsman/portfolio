@@ -363,7 +363,7 @@ button {
 }
 
 button:hover {
-    outline: none;
+    outline: #296d98;
     background-color: #296d98;
     color: #fff;
 }
@@ -413,7 +413,8 @@ button:hover {
     padding-left: 5px;
     padding-right: 10px;
     margin-bottom: 15px;
-    background-color: rgba(41, 109, 152, 0.6);
+    background-color: #fff;
+    border: 2px solid #296d98;
     transition: all 0.5s;
 }
 
@@ -426,7 +427,7 @@ button:hover {
 }
 
 .service-item:hover {
-    background-color: rgba(250, 250, 250, 1);
+    background-color: #fff;
 }
 
 .service-item:hover h4 {
@@ -448,7 +449,7 @@ button:hover {
 }
 
 .service-item .first-service-icon {
-    background-image: url(../images/first-white-icon.png);
+    background-image: url(../images/first-main-icon.png);
 }
 
 .service-item:hover .first-service-icon {
@@ -456,7 +457,7 @@ button:hover {
 }
 
 .service-item .second-service-icon {
-    background-image: url(../images/second-white-icon.png);
+    background-image: url(../images/second-main-icon.png);
 }
 
 .service-item:hover .second-service-icon {
@@ -464,7 +465,7 @@ button:hover {
 }
 
 .service-item .third-service-icon {
-    background-image: url(../images/third-white-icon.png);
+    background-image: url(../images/third-main-icon.png);
 }
 
 .service-item:hover .third-service-icon {
@@ -472,7 +473,7 @@ button:hover {
 }
 
 .service-item .fourth-service-icon {
-    background-image: url(../images/fourth-white-icon.png);
+    background-image: url(../images/fourth-main-icon.png);
 }
 
 .service-item:hover .fourth-service-icon {
@@ -507,6 +508,7 @@ section.my-work .section-heading {
     border-bottom: 2px solid transparent;
     transform: ease-in-out 0.5s;
     cursor: pointer;
+    color: #296d98;
 }
 
 .isotope-toolbar input[type="radio"]:checked + span {
@@ -651,11 +653,11 @@ section.contact-me {
 }
 
 #contact input {
-    background-color: rgba(250,250,250,0.1);
-    border: 1px solid rgba(250,250,250,1);
+    background-color: rgba(250,250,250,1);
+    border: 1px solid #296d98;
     border-radius: 0px;
     margin-bottom: 30px;
-    color: #fff;
+    color: #296d98;
     font-size: 14px;
     height: 40px;
     line-height: 40px;
@@ -669,11 +671,11 @@ section.contact-me {
 }
 
 #contact textarea {
-    background-color: rgba(250,250,250,0.1);
-    border: 1px solid rgba(250,250,250,1);
+    background-color: rgba(250,250,250,1);
+    border: 1px solid #296d98;
     border-radius: 0px;
     margin-bottom: 30px;
-    color: #fff;
+    color: #296d98;
     font-size: 14px;
     height: 180px;
     max-height: 220px;
